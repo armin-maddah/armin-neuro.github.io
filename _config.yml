@@ -1,5 +1,5 @@
 title: Armin Maddah
-description: Data Analyst / Research Specialist
+description: Data Engineer | AI & ML Specialist
 author:
   name: Armin Maddah
   twitter: armin_neuro
@@ -15,7 +15,6 @@ social:
     - https://twitter.com/armin_neuro
     - https://https://github.com/armin-neuro
     - https://www.linkedin.com/in/armin-maddah/
-    - https://www.last.fm/user/blue3in
 
 
 twitter:
@@ -36,18 +35,6 @@ links:
   - name: twitter
     url: https://twitter.com/armin_neuro
     class: fab fa-twitter
-  - name: soundcloud
-    url: https://soundcloud.com/lowlake
-    class: fab fa-soundcloud
-  - name: last.fm
-    url: https://www.last.fm/user/blue3in
-    class: fab fa-lastfm
-  - name: instagram
-    url: https://www.instagram.com/lwlkoae/
-    class: fab fa-instagram
-  - name: spotify
-    url: https://open.spotify.com/user/arma-madi
-    class: fab fa-spotify
 
 # additional stuff
 exclude:
@@ -55,6 +42,8 @@ exclude:
   - Gemfile.lock
   - Rakefile
   - README.md
+  - .bundle
+  - vendor
 
 plugins:
   - jekyll-sitemap
